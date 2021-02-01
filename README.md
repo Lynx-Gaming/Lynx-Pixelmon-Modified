@@ -1,1 +1,1 @@
-# Lynx-Pxelmon-Modified
+# Lynx-Pixelmon-Modified
